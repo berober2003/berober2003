@@ -14,6 +14,8 @@ Most of what I build runs in production for real businesses, so most of these re
 
 **[Claude Observatory](https://github.com/berober2003/claude-observatory)** — session-level analytics and usage intelligence for Claude Code. Open source.
 
+**[7shifts MCP Server](https://github.com/berober2003/7shifts-mcp-server)** — an MCP server for 7shifts scheduling and labor data, built for my restaurant and open sourced. Schedules, time punches, wages, and daily sales through one Claude connection.
+
 ## What I contribute to
 
 **[Context Hub](https://github.com/andrewyng/context-hub)** — Andrew Ng's project giving coding agents versioned, curated API docs they fetch on demand instead of hallucinating endpoints. I'm a contributor, and every build in my stack runs `chub` before writing integration code.
