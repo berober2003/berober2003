@@ -16,6 +16,8 @@ Most of what I build runs in production for real businesses, so most of these re
 
 **[claude-ops](https://github.com/berober2003/claude-ops)** — the operating system I run Claude Code on: model routing, delegation contracts, a fresh-context review gate, compound engineering, the layered research stack, skills architecture, and the job contract my automation fleet ships against. Every rule in it came from a real failure.
 
+**[remotion-video-factory](https://github.com/berober2003/remotion-video-factory)** — the prompt-driven video factory behind my motion graphics and social assets: themed, schema-validated Remotion compositions rendered from JSON props, driven end to end by an AI agent.
+
 **[7shifts MCP Server](https://github.com/berober2003/7shifts-mcp-server)** — an MCP server for 7shifts scheduling and labor data, built for my restaurant and open sourced. Schedules, time punches, wages, and daily sales through one Claude connection.
 
 ## What I contribute to
