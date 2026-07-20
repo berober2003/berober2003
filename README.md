@@ -12,9 +12,11 @@ Most of what I build runs in production for real businesses, so most of these re
 
 **Life OS** — a personal cognitive system built on Claude Code. Agents with defined roles, persistent memory, an activity ledger, and a fleet of scheduled jobs that brief me every morning and capture everything I do. It runs my day.
 
-**[Claude Observatory](https://github.com/berober2003/claude-observatory)** — session-level analytics and usage intelligence for Claude Code. Public.
+**[Claude Observatory](https://github.com/berober2003/claude-observatory)** — session-level analytics and usage intelligence for Claude Code. Open source.
 
-**[Context Hub](https://github.com/berober2003/context-hub)** — versioned, curated API docs that coding agents fetch on demand so they stop hallucinating endpoints. `npm install -g @aisuite/chub`. Public.
+## What I contribute to
+
+**[Context Hub](https://github.com/andrewyng/context-hub)** — Andrew Ng's project giving coding agents versioned, curated API docs they fetch on demand instead of hallucinating endpoints. I'm a contributor, and every build in my stack runs `chub` before writing integration code.
 
 ## The through-line
 
