@@ -14,6 +14,8 @@ Most of what I build runs in production for real businesses, so most of these re
 
 **[Claude Observatory](https://github.com/berober2003/claude-observatory)** — session-level analytics and usage intelligence for Claude Code. Open source.
 
+**[claude-ops](https://github.com/berober2003/claude-ops)** — the operating layer I run Claude Code on: multi-workspace MCP sync, startup health checks, and the job contract my automation fleet ships against. Every rule in it came from a real failure.
+
 **[7shifts MCP Server](https://github.com/berober2003/7shifts-mcp-server)** — an MCP server for 7shifts scheduling and labor data, built for my restaurant and open sourced. Schedules, time punches, wages, and daily sales through one Claude connection.
 
 ## What I contribute to
